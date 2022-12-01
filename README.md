@@ -10,5 +10,5 @@ This is a repository with some sample codes from my academic courses. These samp
 -  **Modern Information Retrieval HW2**, which had my implemented text classification and clustering on text data,
 - **Modern Information Retrieval HW3**, which is a scraper (crawler) in Python on papers from Semantic Scholar, plus ElasticSearch interfaces, PageRank, HITS (Hyperlink_Induced Topic Search), and query search.
 
-A simple sports website as my project for web programming course is also located in my **Web-Project** repository.
+A simple sports website as my project for web programming course is also located in my [**Web-Project**](https://github.com/mehran-hosseinzadeh/Web-Project) repository.
 
